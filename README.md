@@ -17,6 +17,7 @@ Get all the products
 ```
 
 [/products/productID](https://grocery-backend-in.vercel.app/products/a11)
+Get Product by ID
 
 ```js
 -> "https://grocery-backend-in.vercel.app/products/{prodID}"
