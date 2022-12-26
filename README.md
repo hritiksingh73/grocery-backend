@@ -8,12 +8,12 @@ base_url = 'https://grocery-backend-in.vercel.app/';
 
 ### Endpoints
 
-[/products](https://grocery-backend-in.vercel.app//products/popular)
+[/products](https://grocery-backend-in.vercel.app/products/popular)
 
 Get all the products
 
 ```js
--> "https://grocery-backend-in.vercel.app/products"
+-> "https://grocery-backend-in.vercel.app/products/popular"
 ```
 
 [/products/productID](https://grocery-backend-in.vercel.app/products/a11)
