@@ -10,7 +10,7 @@ app.use(cors());
 
 app.get('/', (req, res) => {
   res.send({
-    github: 'https://github.com/hrithik73',
+    github: 'https://github.com/hritiksingh73/grocery-backend',
   });
 });
 
