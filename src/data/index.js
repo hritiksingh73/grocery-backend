@@ -61,6 +61,7 @@ export const popularProducts = [
     id: 'h88',
     title: 'Apple',
     price: 0.27,
+    oldPrice: 3,
     imageUrl:
       'https://5.imimg.com/data5/GLADMIN/Default/2022/7/BE/AS/OV/92368/apple-500x500.jpg',
   },
